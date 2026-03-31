@@ -1,3 +1,13 @@
+Install Desktop Appp:   
+https://opencode.ai/download
+
+sudo dpkg -i opencode-desktop-amd64.deb
+
+Use MiMo V2 Pro Free:
+Build Mode 
+
+
+
 opencode cli instead of claude code and their free models like MiMo V2 Pro Free. These are very good and free and there is no limits.
 
 Perfect! ✅ You now have a working OpenCode CLI setup with **MiMo V2 Pro Free**. Here’s a **full, clear guide** you can save for future reference — from scratch to running models.

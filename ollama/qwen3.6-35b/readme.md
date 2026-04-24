@@ -3,6 +3,8 @@ export OLLAMA_MAX_LOADED_MODELS=1
 export OMP_NUM_THREADS=8
 export OLLAMA_NUMA=1 
 
+https://llm-stats.com/models/qwen3.6-35b-a3b
+
 
 `ollama pull batiai/qwen3.6-35b:iq4`
 18GB pulled.
